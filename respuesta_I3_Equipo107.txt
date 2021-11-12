@@ -1,0 +1,33 @@
+Participantes 
+Ezequiel Perez 
+Kevin Condori
+Thomas Hammer
+
+Respuestas
+
+Beta:
+a) Despues del merge, las ramas creadas se copian tal cual como estan(incluyendo sus commits) al main.
+b) Si, los pude ver.
+c) git clone
+   git log --oneline --decorate --all --graph
+   git branch(veo en que rama me encuentro)
+   git merge
+  
+
+
+Gamma:
+d) No, las ramas creadas no quedan con datos actualizados 
+e) No tuvimos problemas al hacer el merge.
+f)git checkout
+echo 'Thomas Hamer' >> beta.txt && ifconfig >> beta.txt && date +%T >> beta.txt
+git add .
+git commit -m commit
+git push
+
+Alfa:
+g)git clone
+cd "directorio"
+git log --oneline --decorate --all --graph
+git checkout "rama"
+git status
+git add .
