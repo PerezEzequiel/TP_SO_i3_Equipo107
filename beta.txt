@@ -18,3 +18,25 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 22:32:30
+
+Hamer Thomas
+
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.0.68  netmask 255.255.255.0  broadcast 192.168.0.255
+        inet6 fe80::a552:868:bfd2:d876  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:f6:b1:91  txqueuelen 1000  (Ethernet)
+        RX packets 1567  bytes 1383821 (1.3 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1114  bytes 147156 (147.1 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Bucle local)
+        RX packets 363  bytes 35206 (35.2 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 363  bytes 35206 (35.2 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        
+23:00:08
