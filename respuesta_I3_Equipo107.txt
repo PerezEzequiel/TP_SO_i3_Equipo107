@@ -10,10 +10,8 @@ a) Despues del merge, las ramas creadas se copian tal cual como estan(incluyendo
 b) Si, los pude ver.
 c) git clone
    git log --oneline --decorate --all --graph
-   git branch(veo en que rama me encuentro)
-   git merge
-  
-
+   git branch(Verifico si estoy parado en la rama main)
+   git merge Hammer
 
 Gamma:
 d) No, las ramas creadas no quedan con datos actualizados 
